@@ -15,7 +15,7 @@
         </Grid.RowDefinitions>
         <Menu IsMainMenu="True">
             <MenuItem Header="_File">
-                <MenuItem Header="E_Xit"
+                <MenuItem Header="E_xit"
                           Click="Exit_Click" />
             </MenuItem>
             <MenuItem Header="Products">
